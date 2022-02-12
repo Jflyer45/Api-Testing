@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jflyer45/Api-Testing/issues"
   },
-  "homepage": "https://github.com/Jflyer45/Api-Testing#readme"
+  "homepage": "https://github.com/Jflyer45/Api-Testing#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
 }
