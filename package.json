@@ -1,0 +1,19 @@
+{
+  "name": "API Testing",
+  "version": "1.0.0",
+  "description": "Test Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jflyer45/Api-Testing.git"
+  },
+  "author": "Jeremy Fischer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jflyer45/Api-Testing/issues"
+  },
+  "homepage": "https://github.com/Jflyer45/Api-Testing#readme"
+}
