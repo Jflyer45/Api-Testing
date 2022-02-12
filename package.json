@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Jflyer45/Api-Testing#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2"
   }
 }
