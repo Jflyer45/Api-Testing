@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 
 app.get('/getStat/:username/:hero', (req, res) => {
     let username = req.params.username
-    const overwatchURL = 'https://playoverwatch.com/en-us/career/pc/%s-1172/'.replace("%s", username);
+    const overwatchURL = 'https://playoverwatch.com/en-us/career/pc/%s/'.replace("%s", username);
     let chosenHero = req.params.hero
     axios.get(overwatchURL)
     .then((response) => {
